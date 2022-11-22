@@ -1,0 +1,138 @@
+/*--------title---------------*/
+
+.comp-title {
+    box-sizing: border-box;
+    position: absolute;
+    width: 880px;
+    height: 64px;
+    left: 464px;
+    top: 212px;
+    /* blk_ */
+    border: 1px solid #D1D1D1;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+/*--------------------------box-------------------------*/
+
+.comp-box {
+    box-sizing: border-box;
+    position: absolute;
+    width: 880px;
+    height: 409px;
+    left: 464px;
+    top: 316px;
+    /* blk_ */
+    border: 1px solid #D1D1D1;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+/* .comp-tools {
+    position: absolute;
+    width: 880px;
+    height: 64px;
+    left: 464px;
+    top: 316px;
+   
+    background: #F1F1F2;
+    border-radius: 10px 10px 0px 0px;
+
+} */
+
+
+/*-----------------upload file box---------------------------*/
+
+.drop-box {
+    position: absolute;
+    width: 880px;
+    height: 166px;
+    left: 464px;
+    top: 751px;
+    /* blk_3 */
+    background: #F1F1F2;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+    /* blk_2 */
+    color: #9D9D9D;
+}
+
+.drop-text {
+    position: absolute;
+    width: 255px;
+    height: 30px;
+    left: 640px;
+    top: 819px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+    /* blk_2 */
+    color: #9D9D9D;
+}
+
+
+/*-----------drop buttton----------------*/
+
+.bro-cont {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+}
+
+.bro-cont+label {
+    position: relative;
+    width: 90px;
+    height: 25px;
+    color: #FFFFFF;
+    display: inline-block;
+    width: 167px;
+    height: 50px;
+    left: 923px;
+    top: 809px;
+    /* blk_2 */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    background: #9D9D9D;
+    border-radius: 10px;
+}
+
+
+/*---------------post button----------------*/
+
+.post {
+    position: absolute;
+    width: 186px;
+    height: 55.14px;
+    left: 464px;
+    top: 959px;
+    background: #050303;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    color: #FFFFFF;
+    border-radius: 10px;
+}

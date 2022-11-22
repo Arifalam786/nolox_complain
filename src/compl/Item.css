@@ -1,0 +1,134 @@
+.title {
+    position: absolute;
+    width: 67px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.des {
+    position: absolute;
+    width: 82px;
+    height: 12px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 8px;
+    line-height: 12px;
+    /* identical to box height */
+    /* blk_2 */
+    color: #9D9D9D;
+}
+
+.comp-image>img {
+    box-sizing: border-box;
+    width: 529px;
+    height: 281px;
+    /* blk_ */
+    border-radius: 10px;
+}
+
+.main-cont-comp {
+    display: grid;
+    grid-template-rows: 47px 281px 83px 90px;
+    grid-gap: 40px;
+}
+
+.prod-container {
+    margin-top: 542px;
+    position: absolute;
+    display: grid;
+    width: 529px;
+    height: 576px;
+    grid-template-columns: 300px;
+    text-align: center;
+    grid-column-gap: 30px;
+    margin-left: 636px;
+}
+
+.prod {
+    display: grid;
+    grid-template-columns: 47px 100px;
+    grid-gap: 20px;
+}
+
+.profile-image {
+    width: 47px;
+    height: 47px;
+    background-color: #9D9D9D;
+    border-radius: 50%;
+}
+
+.title {
+    width: 67px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.sub-prod {
+    display: grid;
+    grid-template-rows: 24px 12px;
+}
+
+.des {
+    position: absolute;
+    width: 82px;
+    height: 12px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 8px;
+    line-height: 12px;
+    /* identical to box height */
+    /* blk_2 */
+    color: #9D9D9D;
+}
+
+.social {
+    display: grid;
+    grid-template-columns: 47px 47px 47px;
+    grid-gap: 20px;
+}
+
+.like {
+    /* Ellipse 37 */
+    box-sizing: border-box;
+    width: 36px;
+    height: 36px;
+    /* blk_ */
+    border: 1px solid #D1D1D1;
+    border-radius: 50%;
+}
+
+.like1,
+.dislike1 {
+    margin-top: 9px;
+}
+
+.dislike {
+    /* Vector 4 */
+    box-sizing: border-box;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    /* blk_ */
+    border: 1px solid #D1D1D1;
+}
+
+.comment {
+    width: 36px;
+    height: 36px;
+    margin-top: 7px;
+    /* blk_2 */
+}

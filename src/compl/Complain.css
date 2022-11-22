@@ -1,0 +1,127 @@
+.complaint {
+    position: relative;
+    width: 1440px;
+    height: 1868px;
+    background: #FFFFFF;
+}
+
+.comp-title2 {
+    position: absolute;
+    width: 165px;
+    height: 36px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    color: #000000;
+    top: 231px;
+    left: 467px;
+}
+
+.new {
+    position: absolute;
+    width: 186px;
+    height: 55.14px;
+    background: #050303;
+    top: 219px;
+    left: 1158px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none;
+}
+
+.comp-detail {
+    box-sizing: border-box;
+    position: absolute;
+    width: 888px;
+    height: 103px;
+    /* blk_ */
+    border: 1px solid #D1D1D1;
+    border-radius: 10px;
+    top: 319px;
+    left: 456px;
+}
+
+.newest {
+    position: absolute;
+    top: 355px;
+    left: 658px;
+    width: 97px;
+    height: 38px;
+    border: #F1F1F2;
+    /* blk_3 */
+    background: #F1F1F2;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    /* blk_2 */
+    color: #9D9D9D;
+}
+
+.popular {
+    position: absolute;
+    width: 106px;
+    height: 38px;
+    border: #F1F1F2;
+    /* blk_3 */
+    background: #F1F1F2;
+    border-radius: 10px;
+    top: 354px;
+    left: 773px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    /* blk_2 */
+    color: #9D9D9D;
+}
+
+.comp-search {
+    position: absolute;
+    width: 209.37px;
+    height: 39px;
+    /* blk_3 */
+    background: #F1F1F2;
+    top: 351px;
+    left: 1088px;
+    border: #F1F1F2;
+    border-radius: 10px;
+}
+
+.complaints {
+    position: absolute;
+    width: 125px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    /* blk_2 */
+    color: #9D9D9D;
+    top: 361px;
+    left: 488px;
+}
+
+.profile {
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    background: #D9D9D9;
+    top: 542px;
+    left: 636px;
+}
